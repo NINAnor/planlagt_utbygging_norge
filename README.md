@@ -17,7 +17,7 @@ Metoden er beskrevet i rapporten: [NINA Rapport | Planlagt utbyggingsareal i Nor
 ### Data Nedlasting
 
 Analyse er kjørt i august 2023 for alle norske kommuner som har plandata tilgjengelig på Geonorge.
-Resultater kan lastes ned som GeoPackage og CSV fil her:[maps.nina.no/#Planlagt-Utbygging2023](https://maps.nina.no/#Planlagt-Utbygging2023).
+Resultater kan lastes ned som GeoPackage og CSV fil her: [maps.nina.no/#Planlagt-Utbygging2023](https://maps.nina.no/#Planlagt-Utbygging2023).
 
 ### Samarbeidspartnere
 
