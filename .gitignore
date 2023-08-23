@@ -58,3 +58,7 @@ venv.bak/
 
 # VS Code 
 .vscode
+
+# exclude data from source control
+/data/*
+!data/.gitkeep 
