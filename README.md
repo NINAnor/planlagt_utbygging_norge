@@ -6,7 +6,7 @@ kort beskrivelse kommer her
 -------
 ### Metode
 
-Repository gir metoder for følgende oppagver:
+Repository inneholder metoder for følgende oppagver:
 
 1. Rydding av plandata og beregning av planlagt utbygginsareal (fme)
 2. Overlappsanalyse med miljø- og samfunnsvariabler (sql)
