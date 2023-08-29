@@ -17,7 +17,7 @@ Trond Simensen, Willeke A’Campo, Andreas Atakan, Jan Eirik Heggdal, Linda Aune
 
 ### Data Nedlasting
 Analyse er kjørt i august 2023 for alle norske kommuner som har plandata tilgjengelig på Geonorge.
-Resultater kan lastes ned som GeoPackage og CSV fil her: [maps.nina.no/#Planlagt-Utbygging2023](https://maps.nina.no/viewer.html#planlagt-utbyggingsareal-i-norge).
+Resultater kan lastes ned som GeoPackage her: [maps.nina.no](https://maps.nina.no/viewer.html#planlagt-utbyggingsareal-i-norge).
 
 ### Samarbeidspartnere
 * [Norsk institutt for naturforskning (NINA)](https://www.nina.no/)
